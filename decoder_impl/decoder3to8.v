@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 05/08/2025 11:32:08 PM
+// Create Date: 05/17/2025 03:57:26 PM
 // Design Name: 
-// Module Name: decoder_3to8
+// Module Name: decoder3to8
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -39,3 +39,4 @@ module decoder_3to8(
         endcase
     end
 endmodule
+
